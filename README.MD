@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/aojiaotage/res-time-percentage-statistics.svg?branch=master)](https://travis-ci.org/aojiaotage/res-time-percentage-statistics)
+
 ### Introduction
 
 This tool helps to calculate the statistics of millions of response-time-like data within several seconds.
